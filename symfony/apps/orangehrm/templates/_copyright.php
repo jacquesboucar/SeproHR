@@ -4,5 +4,5 @@ $prodName = 'Sepro Senegal';
 $copyrightYear = date('Y');
 
 ?>
-<?php echo $prodName;?><br/>
+<?php //echo $prodName;?><br/>
 &copy; <?php echo $copyrightYear;?> <a href="" target="_blank">Sepro Senegal</a>.
