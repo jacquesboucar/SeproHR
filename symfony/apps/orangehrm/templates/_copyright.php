@@ -1,8 +1,8 @@
 <?php 
 //$version = '3.3.2';
-$prodName = 'SEPRO ERP';
+$prodName = 'Sepro Senegal';
 $copyrightYear = date('Y');
 
 ?>
 <?php echo $prodName;?><br/>
-&copy; 2005 - <?php echo $copyrightYear;?> <a href="http://www.sepro.com" target="_blank">Sepro ERP</a>.
+&copy; <?php echo $copyrightYear;?> <a href="" target="_blank">Sepro Senegal</a>.
