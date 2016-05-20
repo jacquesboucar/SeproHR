@@ -87,7 +87,7 @@ $imagePath = theme_path("images/login");
     }
 
     #btnLogin {
-        background: url(<?php echo "{$imagePath}/Login_button.png"; ?>) no-repeat;
+        /*background: url(<?php echo "{$imagePath}/Login_button.png"; ?>) no-repeat;*/
         cursor:pointer;
         width: 94px;
         height: 26px;
@@ -105,7 +105,7 @@ $imagePath = theme_path("images/login");
 
     #divLogo {
         padding-left: 30%;
-        padding-top: 70px;
+        padding-top: 36px;
     }
 
     #spanMessage {
